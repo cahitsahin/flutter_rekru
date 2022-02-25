@@ -1,0 +1,1 @@
+ /Users/cahitsahin/Documents/flutter_rekru/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/cahitsahin/Documents/flutter_rekru/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/cahitsahin/Documents/flutter_rekru/l10n.yaml /Users/cahitsahin/Documents/flutter_rekru/lib/l10n/app_en.arb
